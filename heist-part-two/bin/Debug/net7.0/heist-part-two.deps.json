@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "heist-part-two/1.0.0": {
+        "runtime": {
+          "heist-part-two.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "heist-part-two/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
